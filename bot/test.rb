@@ -36,13 +36,10 @@ end
 #end
 
 #i = GetIdeaClass.new
-#i.getAdj
 getAdj
 adj1 = @adj
-#i.getNoun
 getNoun
 noun1 = @noun
-#p noun
 
 getAdj
 adj2 = @adj
